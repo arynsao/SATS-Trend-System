@@ -10,7 +10,7 @@
 
 
 indicator(
-     title              = "Self-Aware Trend System [WillyAlgoTrader]",
+     title              = "Self-Aware Trend System",
      shorttitle         = "SATS",
      overlay            = true,
      max_lines_count    = 500,
